@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>物联网智能视频服务-48px </title>
+    <desc>Created with Sketch.</desc>
+    <g id="物联网智能视频服务-48px-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#444444" opacity="0" x="0" y="0" width="48" height="48"></rect>
+        <g id="137181528fd7f16db8726788caa3233e" transform="translate(1.000000, 0.000000)" fill="#00A4FF">
+            <g id="XMLID_327_">
+                <g id="icon_1_">
+                    <path d="M23.0592,2.78976 C11.3952,2.77728 1.9296,12.22272 1.91712,23.88768 C1.90464,35.55168 11.35008,45.01728 23.01504,45.02976 C33.53952,45.04128 42.46656,37.3008 43.94688,26.88 L45.99072,26.88 C44.4,39.50496 32.87616,48.45024 20.2512,46.85952 C7.62624,45.2688 -1.31808,33.74496 0.27264,21.12 C1.8624,8.49504 13.3872,-0.45024 26.0112,1.14048 C36.45216,2.45568 44.67552,10.67904 45.99072,21.12 L43.97472,21.12 C42.58272,10.63104 33.64032,2.7936 23.0592,2.78976 Z" id="XMLID_7_"></path>
+                </g>
+            </g>
+        </g>
+        <g id="分组-7" transform="translate(18.000000, 12.000000)" stroke="#00A4FF" stroke-width="2">
+            <polygon id="三角形-copy-7" transform="translate(10.008613, 11.869078) rotate(90.000000) translate(-10.008613, -11.869078) " points="10.0086133 2.20499569 21.8776916 21.5331611 -1.86046512 21.5331611"></polygon>
+            <polyline id="直线-3-copy-2" stroke-linecap="square" points="0.809646856 0.930232558 6.82912608 10.7250245 18.6447122 11.9400905"></polyline>
+            <path d="M6.64307957,10.6976744 L0.344530577,23.1261544" id="路径-3-copy-5"></path>
+        </g>
+    </g>
+</svg>

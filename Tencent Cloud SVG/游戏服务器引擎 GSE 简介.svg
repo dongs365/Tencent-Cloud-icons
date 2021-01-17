@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>48x48备份 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="48x48备份-3" transform="translate(0.000000, -0.000000)">
+            <g id="编组-2" transform="translate(1.000000, 4.000000)">
+                <g id="326f9575307fc0c9137c33173778261d">
+                    <polyline id="Path" stroke="#00A4FF" stroke-width="2" points="42.2 36.1 4 36.1 4 11.3"></polyline>
+                    <polyline id="Path" stroke="#00A4FF" stroke-width="2" points="4 3.9 42.2 3.9 42.2 28.7"></polyline>
+                    <circle id="Oval" fill="#00A4FF" cx="3.8" cy="3.9" r="3.1"></circle>
+                    <circle id="Oval" fill="#00A4FF" cx="42.2" cy="36.1" r="3.1"></circle>
+                </g>
+                <g id="编组" transform="translate(8.000000, 10.000000)">
+                    <rect id="矩形" stroke="#00A4FF" stroke-width="2" x="2" y="3" width="26" height="16"></rect>
+                    <rect id="矩形" fill="#00A4FF" x="14" y="0" width="2" height="2"></rect>
+                    <rect id="矩形备份-3" fill="#00A4FF" x="6" y="10" width="6" height="2"></rect>
+                    <rect id="矩形备份-7" fill="#00A4FF" transform="translate(9.000000, 11.000000) rotate(-270.000000) translate(-9.000000, -11.000000) " x="6" y="10" width="6" height="2"></rect>
+                    <rect id="矩形备份-5" fill="#00A4FF" x="0" y="8" width="2" height="6"></rect>
+                    <polygon id="矩形备份-6" fill="#00A4FF" points="28 8 30 8 30 14 28 14"></polygon>
+                    <rect id="矩形备份-4" fill="#00A4FF" x="20" y="8" width="2" height="2" rx="1"></rect>
+                    <rect id="矩形备份-8" fill="#00A4FF" x="18" y="10" width="2" height="2" rx="1"></rect>
+                    <rect id="矩形备份-9" fill="#00A4FF" x="22" y="10" width="2" height="2" rx="1"></rect>
+                    <rect id="矩形备份-10" fill="#00A4FF" x="20" y="12" width="2" height="2" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

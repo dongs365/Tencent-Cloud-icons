@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>画板</title>
+    <desc>Created with Sketch.</desc>
+    <g id="画板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="云数据迁移" transform="translate(2.000000, 0.000000)" fill-rule="nonzero">
+            <polygon id="Shape" fill="#00A4FF" points="42 18.9 42 34.9 22 45.8 2 34.9 2 13.1 22 2.2 41.8 13 43.8 11.9 22 0 0 12 0 36 22 48 44 36 44 17.8"></polygon>
+            <rect id="Rectangle-200" stroke="#00A4FF" stroke-width="2" x="13" y="16" width="18" height="18"></rect>
+            <rect id="Rectangle-3" fill="#00A4FF" x="14" y="21" width="16" height="2"></rect>
+            <rect id="Rectangle-201" stroke="#00A4FF" stroke-width="2" x="18" y="12" width="8" height="4"></rect>
+            <rect id="Rectangle-202" fill="#00A4FF" x="16" y="33" width="2" height="4"></rect>
+            <rect id="Rectangle-202-Copy" fill="#00A4FF" x="26" y="33" width="2" height="4"></rect>
+        </g>
+    </g>
+</svg>

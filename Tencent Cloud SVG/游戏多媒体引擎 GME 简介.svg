@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="48px" height="48px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#00A4FF;}
+	.st1{fill:none;stroke:#00A4FF;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g id="XMLID_1_">
+	<g id="XMLID_348_">
+		<path id="XMLID_679_" class="st0" d="M24,33.692c-5.345,0-9.692-4.692-9.692-9.692h2c0,4,3.451,7.692,7.692,7.692
+			S31.692,28,31.692,24h2C33.692,29,29.345,33.692,24,33.692z"/>
+	</g>
+	<rect id="XMLID_346_" x="19.137" y="16" class="st0" width="3.863" height="2"/>
+	<rect id="XMLID_345_" x="19" y="19" class="st0" width="4" height="2"/>
+	<rect id="XMLID_344_" x="19.137" y="22" class="st0" width="3.863" height="2"/>
+	<g id="XMLID_4_">
+		<g id="XMLID_79_">
+			<polygon id="XMLID_80_" class="st0" points="44,19.1 44,34.9 24,45.8 4,34.9 4,13.1 24,2.2 44,13.1 44,13.1 46,12 46,12 24,0 
+				2,12 2,36 24,48 46,36 46,18 			"/>
+		</g>
+	</g>
+	<line id="XMLID_254_" class="st1" x1="21" y1="37" x2="27" y2="37"/>
+	<g id="XMLID_657_">
+		<rect id="XMLID_659_" x="28" y="14" class="st0" width="2" height="8"/>
+		<rect id="XMLID_658_" x="25" y="17" class="st0" width="8" height="2"/>
+	</g>
+	<path id="XMLID_786_" class="st0" d="M27.858,24c-0.447,1.721-1.999,3-3.858,3c-2.206,0-4-1.794-4-4v-6.595c0-2.206,1.794-4,4-4
+		c0.761,0,1.465,0.225,2.071,0.595h2.864c-1.084-1.566-2.89-2.595-4.934-2.595c-3.309,0-6,2.691-6,6V23c0,3.309,2.691,6,6,6
+		c2.967,0,5.431-2.167,5.91-5H27.858z"/>
+</g>
+</svg>

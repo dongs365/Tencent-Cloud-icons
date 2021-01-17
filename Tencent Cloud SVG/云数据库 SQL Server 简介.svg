@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <title>画板 3</title>
+  <path d="M3.035,20.061h-2c0,4,8.506,8,19,8v-2C9.657,26.061,3.035,22.061,3.035,20.061Zm0,18h-2c0,4,8.506,8,19,8v-2C9.657,44.061,3.035,40.061,3.035,38.061ZM39,20.061v-9H37v9.021h2.032l0-.021Zm-35.965,9h-2c0,4,8.506,8,19,8v-2C9.657,35.061,3.035,31.061,3.035,29.061Z" style="fill: #00a4ff;fill-rule: evenodd"/>
+  <rect x="1" y="10.061" width="2" height="27" style="fill: #00a4ff"/>
+  <path d="M20.035,5c10.377,0,17,3.554,17,6s-6.623,6-17,6-17-3.554-17-6,6.622-6,17-6m0-2c-10.494,0-19,3.582-19,8s8.506,8,19,8,19-3.582,19-8-8.507-8-19-8Z" style="fill: #00a4ff"/>
+  <rect x="1" y="11.061" width="2" height="27" style="fill: #00a4ff"/>
+  <path d="M43.035,26.061v18h-18v-18h18m2-2h-22v22h22v-22Z" style="fill: #00a4ff"/>
+  <rect x="25.035" y="34.061" width="18" height="2" style="fill: #00a4ff"/>
+  <rect x="25.035" y="34.061" width="18" height="2" transform="translate(-1.026 69.096) rotate(-90)" style="fill: #00a4ff"/>
+</svg>

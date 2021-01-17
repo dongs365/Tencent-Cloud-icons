@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>云 API</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 47.9882 46 47.9882 46 0.0002 0 0.0002"></polygon>
+    </defs>
+    <g id="云-API" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#444444" opacity="0" x="0" y="0" width="48" height="48"></rect>
+        <g id="Group-19" transform="translate(1.000000, 0.000000)">
+            <path d="M34.48,4.0996 L33.472,5.8426 C39.759,9.4706 44,16.2466 44,24.0276 C44,31.7846 39.783,38.5416 33.527,42.1776 L34.537,43.9206 C41.389,39.9386 46,32.5236 46,24.0276 C46,15.5066 41.364,8.0746 34.48,4.0996 M12.522,5.8456 L11.514,4.1036 C4.633,8.0786 0,15.5096 0,24.0276 C0,32.5316 4.619,39.9526 11.482,43.9326 L12.49,42.1886 C6.225,38.5546 2,31.7906 2,24.0276 C2,16.2486 6.239,9.4756 12.522,5.8456" id="Fill-1" fill="#00A4FF"></path>
+            <path d="M23,13.0273 C24.994,13.0273 26.858,13.5653 28.471,14.4933 L29.471,12.7623 C27.564,11.6653 25.358,11.0273 23,11.0273 C20.641,11.0273 18.435,11.6653 16.528,12.7633 L17.529,14.4933 C19.142,13.5653 21.006,13.0273 23,13.0273 Z M28.52,33.5313 C26.896,34.4763 25.015,35.0273 23,35.0273 C20.991,35.0273 19.113,34.4793 17.492,33.5383 L16.492,35.2683 C18.407,36.3803 20.626,37.0273 23,37.0273 C25.38,37.0273 27.603,36.3773 29.521,35.2603 L28.52,33.5313 Z" id="Fill-3" fill="#00A4FF"></path>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-6"></g>
+            <polygon id="Fill-5" fill="#00A4FF" mask="url(#mask-2)" points="30 28.0002 32 28.0002 32 20.0002 30 20.0002"></polygon>
+            <polygon id="Fill-7" fill="#00A4FF" mask="url(#mask-2)" points="22 28.0002 24 28.0002 24 20.0002 22 20.0002"></polygon>
+            <polygon id="Fill-8" fill="#00A4FF" mask="url(#mask-2)" points="18 28.0002 20 28.0002 20 22.0002 18 22.0002"></polygon>
+            <polygon id="Fill-9" fill="#00A4FF" mask="url(#mask-2)" points="14 28.0002 16 28.0002 16 22.0002 14 22.0002"></polygon>
+            <polygon id="Fill-10" fill="#00A4FF" mask="url(#mask-2)" points="15.994 26.0002 17.994 26.0002 17.994 24.0002 15.994 24.0002"></polygon>
+            <polygon id="Fill-11" fill="#00A4FF" mask="url(#mask-2)" points="15.994 22.0002 17.994 22.0002 17.994 20.0002 15.994 20.0002"></polygon>
+            <polygon id="Fill-12" fill="#00A4FF" mask="url(#mask-2)" points="24 22.0002 26 22.0002 26 20.0002 24 20.0002"></polygon>
+            <polygon id="Fill-13" fill="#00A4FF" mask="url(#mask-2)" points="26 24.0002 28 24.0002 28 22.0002 26 22.0002"></polygon>
+            <path d="M13.9937,22 L15.9997,22 L15.9997,20 L15.9957,20 C14.8917,20 13.9947,21 13.9947,22 L13.9937,22 Z" id="Fill-14" fill="#00A4FF" mask="url(#mask-2)"></path>
+            <path d="M20,22 L18,22 L18,20 L17.998,20 C19.102,20 19.999,21 19.999,22 L20,22 Z" id="Fill-15" fill="#00A4FF" mask="url(#mask-2)"></path>
+            <path d="M28,22 L26,22 L26,20 L25.998,20 C27.102,20 27.999,21 27.999,22 L28,22 Z" id="Fill-16" fill="#00A4FF" mask="url(#mask-2)"></path>
+            <path d="M27.9937,24 L25.9997,24 L25.9997,26 L25.9977,26 C27.1017,26 27.9947,25.104 27.9947,24 L27.9937,24 Z" id="Fill-17" fill="#00A4FF" mask="url(#mask-2)"></path>
+            <polygon id="Fill-18" fill="#00A4FF" mask="url(#mask-2)" points="23.994 26.0352 25.994 26.0352 25.994 24.0352 23.994 24.0352"></polygon>
+        </g>
+    </g>
+</svg>

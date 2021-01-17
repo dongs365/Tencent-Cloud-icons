@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>SES-48px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SES-48px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2" transform="translate(16.000000, 8.000000)" fill="#00A4FF">
+            <rect id="矩形" x="0" y="13" width="16" height="2"></rect>
+            <rect id="矩形" x="14" y="5" width="2" height="10"></rect>
+            <rect id="矩形复制" x="0" y="5" width="2" height="10"></rect>
+            <rect id="矩形" x="2" y="2" width="12" height="2"></rect>
+            <rect id="矩形" x="12" y="2" width="2" height="5"></rect>
+            <rect id="矩形复制-2" x="2" y="2" width="2" height="5"></rect>
+            <polygon id="路径" fill-rule="nonzero" transform="translate(8.004469, 1.379545) scale(1, -1) translate(-8.004469, -1.379545) " points="5.26171161 0.038148213 8.03605273 2.75908928 10.7472274 9.57251389e-18"></polygon>
+            <polygon id="路径" fill-rule="nonzero" points="1.64864482 5.01015549 0.351355178 6.32976046 8.02592364 12 15.6520252 6.31458727 14.3479748 5 8.02006567 9.717584"></polygon>
+        </g>
+        <path d="M40,41 L40,1 L8,1 L8,47 L40,47 L40,45 L38,45 L38,45 L10,45 L10,3 L38,3 L38,41 L40,41 Z M27,41 L27,39 L21,39 L21,41 L27,41 Z" id="XMLID_4_" fill="#00A4FF" fill-rule="nonzero"></path>
+    </g>
+</svg>

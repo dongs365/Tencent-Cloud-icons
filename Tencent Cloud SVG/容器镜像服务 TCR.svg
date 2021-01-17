@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="48px" height="48px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#444444;fill-opacity:0;}
+	.st1{fill:#D8D8D8;fill-opacity:0;}
+	.st2{fill:#00A4FF;}
+</style>
+<title>容器镜像服务-48px</title>
+<desc>Created with Sketch.</desc>
+<g id="容器镜像服务-48px">
+	<rect id="Rectangle-Copy" class="st0" width="48" height="48"/>
+	<g id="Group-2">
+		<g id="分组">
+			<rect id="矩形" class="st1" width="48" height="48"/>
+			<path id="Shape" class="st2" d="M24.2,45C12.6,45,3.1,35.6,3.1,24S12.6,3,24.2,3c10.6,0,19.4,7.8,20.9,18h2
+				C45.6,9.7,35.9,1,24.2,1C11.4,1,1.1,11.3,1.1,24s10.3,23,23.1,23c11.7,0,21.4-8.7,22.9-20h-2C43.6,37.2,34.8,45,24.2,45z"/>
+		</g>
+		<g id="Group" transform="translate(13.000000, 11.000000)">
+			<path id="形状结合" class="st2" d="M24,14v12H13V14H24z M11,14v12H0V14H11z M22,16h-7v8h7V16z M9,16H2v8h7V16z M11,0v12H0V0
+				H11z M9,2H2v8h7V2z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<path class="st2" d="M27.8,13.7l6.9,7.3h-6.9V13.7 M28,11h-2.2v12h11.4v-2.2L28,11L28,11z"/>
+</g>
+</svg>

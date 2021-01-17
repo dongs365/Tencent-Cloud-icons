@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>48@4x</title>
+    <g id="48" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="XMLID_414_" transform="translate(2.000000, 0.000000)" fill="#00A4FF">
+            <polygon id="Path" points="42 19.1 42 34.9 22 45.8 2 34.9 2 13.1 22 2.2 42 13.1 42 13.1 44 12 44 12 22 0 0 12 0 36 22 48 44 36 44 18"></polygon>
+        </g>
+        <g id="编组-2备份" transform="translate(11.000000, 13.000000)">
+            <polyline id="路径-11" stroke="#00A4FF" stroke-width="2" points="13.2533516 17 9 17 9 1 20 1"></polyline>
+            <polyline id="路径-11" stroke="#00A4FF" stroke-width="2" transform="translate(11.500000, 13.000000) scale(-1, -1) translate(-11.500000, -13.000000) " points="10.2533516 21 6 21 6 5 17 5"></polyline>
+            <rect id="Rectangle-73备份-2" fill="#00A4FF" transform="translate(24.000000, 1.000000) scale(-1, 1) translate(-24.000000, -1.000000) " x="22" y="0" width="4" height="2"></rect>
+            <rect id="Rectangle-73备份-3" fill="#00A4FF" transform="translate(2.000000, 21.000000) scale(-1, 1) translate(-2.000000, -21.000000) " x="0" y="20" width="4" height="2"></rect>
+        </g>
+        <g id="编组" transform="translate(13.500000, 16.000000) scale(1, -1) translate(-13.500000, -16.000000) translate(8.000000, 13.000000)" fill="#00A4FF" fill-rule="nonzero">
+            <polygon id="Shape" points="5 0 5 2 11 2 11 0"></polygon>
+            <polygon id="Shape" points="6 6 6 0 0 0"></polygon>
+        </g>
+        <g id="编组备份" transform="translate(34.500000, 32.000000) scale(-1, 1) translate(-34.500000, -32.000000) translate(29.000000, 29.000000)" fill="#00A4FF" fill-rule="nonzero">
+            <polygon id="Shape" points="5 0 5 2 11 2 11 0"></polygon>
+            <polygon id="Shape" points="6 6 6 0 0 0"></polygon>
+        </g>
+    </g>
+</svg>

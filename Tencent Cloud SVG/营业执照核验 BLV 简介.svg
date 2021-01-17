@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>营业执照-48-蓝</title>
+    <desc>Created with Sketch.</desc>
+    <g id="营业执照-48-蓝" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6.4,7 L44,7 L44,32 L46,32 L46,5 L6.2,5 C5.7,3.8 4.6,3 3.2,3 C1.5,3 0.1,4.5 0.1,6.2 C0.1,8 1.5,9.4 3.3,9.4 C4.8,9.4 6,8.4 6.4,7 Z" id="Path" fill="#00A4FF" fill-rule="nonzero"></path>
+        <path d="M44.8,38.7 C43.3,38.7 42.1,39.7 41.7,41 L4,41 L4,16 L2,16 L2,43 L41.8,43 C42.3,44.2 43.4,45.1 44.8,45.1 C46.6,45.1 48,43.7 48,41.9 C48,40.1 46.6,38.7 44.8,38.7 Z" id="Path" fill="#00A4FF" fill-rule="nonzero"></path>
+        <path d="M39,14 L39,36 L9,36 L9,14 L20.1259956,14.0000851 C20.0437452,14.3196794 20,14.6547311 20,15 C20,15.3455738 20.0438225,15.6809122 20.1262135,16.0007613 L11,16 L11,34 L37,34 L37,16 L27.8737865,16.0007613 C27.9561775,15.6809122 28,15.3455738 28,15 C28,14.6547311 27.9562548,14.3196794 27.8740044,14.0000851 L39,14 Z" id="形状结合" fill="#00A4FF" fill-rule="nonzero"></path>
+        <path d="M24,20 C26.7614237,20 29,17.7614237 29,15 C29,12.2385763 26.7614237,10 24,10 C21.2385763,10 19,12.2385763 19,15 C19,17.7614237 21.2385763,20 24,20 Z M24,18 C22.3431458,18 21,16.6568542 21,15 C21,13.3431458 22.3431458,12 24,12 C25.6568542,12 27,13.3431458 27,15 C27,16.6568542 25.6568542,18 24,18 Z" id="椭圆形" fill="#00A4FF" fill-rule="nonzero"></path>
+        <polygon id="矩形" fill="#00A4FF" points="22 18 26 18 28 21 20 21"></polygon>
+        <rect id="矩形" fill="#00A4FF" x="21" y="24" width="13" height="2"></rect>
+        <rect id="矩形备份-2" fill="#00A4FF" x="14" y="24" width="5" height="2"></rect>
+        <rect id="矩形备份-3" fill="#00A4FF" x="14" y="28" width="5" height="2"></rect>
+        <rect id="矩形备份" fill="#00A4FF" x="21" y="28" width="13" height="2"></rect>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 7</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-7">
+            <rect id="矩形备份-39" x="0" y="0" width="48" height="48"></rect>
+            <rect id="矩形" fill="#00A4FF" x="16" y="44" width="16" height="2" rx="1"></rect>
+            <path d="M14,20 L14,25.3333333 C14,30.6720859 18.4771525,35 24,35 C29.3973282,35 33.7959529,30.8665738 33.9931025,25.6957339 L34,25.3333333 L34,20 L36,20 L36,25 C36,31.627417 30.627417,37 24,37 C17.372583,37 12,31.627417 12,25 L12,20 L14,20 Z" id="形状结合备份-6" fill="#00A4FF" fill-rule="nonzero"></path>
+            <circle id="椭圆形备份-15" fill="#00A4FF" cx="13" cy="20" r="1"></circle>
+            <circle id="椭圆形备份-16" fill="#00A4FF" cx="35" cy="20" r="1"></circle>
+            <rect id="矩形" fill="#00A4FF" x="23" y="36" width="2" height="9" rx="1"></rect>
+            <rect id="矩形备份-43" fill="#00A4FF" x="40" y="19" width="2" height="12" rx="1"></rect>
+            <rect id="矩形备份-45" fill="#00A4FF" x="6" y="19" width="2" height="12" rx="1"></rect>
+            <rect id="矩形备份-44" fill="#00A4FF" x="46" y="17" width="2" height="16" rx="1"></rect>
+            <rect id="矩形备份-46" fill="#00A4FF" x="0" y="17" width="2" height="16" rx="1"></rect>
+            <rect id="矩形" stroke="#00A4FF" stroke-width="2" x="19" y="3" width="10" height="27" rx="5"></rect>
+        </g>
+    </g>
+</svg>

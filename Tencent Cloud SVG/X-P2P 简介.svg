@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>X-P2P-48px 蓝色</title>
+    <desc>Created with Sketch.</desc>
+    <g id="X-P2P-48px-蓝色" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="Rectangle-Copy" fill="#444444" opacity="0" x="0" y="0" width="48" height="48"></rect>
+            <polygon id="Path" fill="#00A4FF" points="44 19.091 44 34.909 24 45.818 4 34.909 4 13.091 24 2.182 44 13.091 44 13.094 46 12.007 46 12 24 0 2 12 2 36 24 48 46 36 46 18.004"></polygon>
+            <rect id="Rectangle" fill="#00A4FF" fill-rule="nonzero" x="23" y="24" width="2" height="12"></rect>
+            <rect id="Rectangle" fill="#00A4FF" fill-rule="nonzero" transform="translate(28.446152, 21.299038) rotate(60.000000) translate(-28.446152, -21.299038) " x="27.4461524" y="15.2990381" width="2" height="12"></rect>
+            <rect id="Rectangle" fill="#00A4FF" fill-rule="nonzero" transform="translate(19.446152, 21.299038) scale(-1, 1) rotate(60.000000) translate(-19.446152, -21.299038) " x="18.4461524" y="15.2990381" width="2" height="12"></rect>
+            <circle id="Oval" fill="#00A4FF" fill-rule="nonzero" cx="34" cy="18" r="2"></circle>
+            <circle id="Oval" fill="#00A4FF" fill-rule="nonzero" cx="24" cy="35" r="2"></circle>
+            <circle id="Oval" fill="#00A4FF" fill-rule="nonzero" cx="14" cy="18" r="2"></circle>
+            <rect id="矩形" x="0" y="0" width="48" height="48"></rect>
+        </g>
+    </g>
+</svg>

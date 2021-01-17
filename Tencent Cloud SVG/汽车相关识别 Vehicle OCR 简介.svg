@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="42px" viewBox="0 0 48 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Group 7 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7-Copy" transform="translate(0.000000, -3.000000)">
+            <g id="编组-4" transform="translate(0.000000, 3.000000)" fill="#00A4FF" fill-rule="nonzero">
+                <g id="Group-7备份">
+                    <circle id="Oval" cx="3" cy="3" r="3"></circle>
+                    <circle id="Oval-Copy" cx="45" cy="39" r="3"></circle>
+                    <rect id="Rectangle" x="2" y="13" width="2" height="27"></rect>
+                    <rect id="Rectangle-Copy-3" x="44" y="2" width="2" height="27"></rect>
+                    <rect id="Rectangle" x="2" y="38" width="43" height="2"></rect>
+                    <rect id="Rectangle-Copy-2" x="2" y="2" width="43" height="2"></rect>
+                </g>
+            </g>
+            <circle id="Oval" stroke="#00A4FF" stroke-width="2" cx="28.5" cy="22.5" r="3.5"></circle>
+            <path d="M31.5625,20.1668701 L36.341675,17.0110827" id="Path-9" stroke="#00A4FF" stroke-width="2"></path>
+            <path d="M25.0027219,21.6393127 C25.0321501,22.3911167 25.298716,23.0820208 25.7297074,23.6393127 L15,23.6393127 L15,27.8893127 L33,27.8893127 L33,23.6393127 L31.2702926,23.6393127 C31.701284,23.0820208 31.9678499,22.3911167 31.9972781,21.6393127 L32.1005859,21.6393127 L34,21.6393127 C34.5522847,21.6393127 35,22.087028 35,22.6393127 L35,28.8893127 C35,29.4415975 34.5522847,29.8893127 34,29.8893127 L14,29.8893127 C13.4477153,29.8893127 13,29.4415975 13,28.8893127 L13,22.6393127 C13,22.087028 13.4477153,21.6393127 14,21.6393127 L24.0305176,21.6393127 L25.0027219,21.6393127 Z" id="Combined-Shape" fill="#00A4FF" fill-rule="nonzero"></path>
+            <path d="M15.8587179,22.5146039 L17.5987457,16.7127329 C17.7256141,16.2897084 18.1149568,16 18.5565962,16 L29.6183942,16 C30.0639727,16 30.4557949,16.2948048 30.5792468,16.7229402 L32.2703593,22.5877749" id="形状备份" stroke="#00A4FF" stroke-width="2"></path>
+            <polygon id="矩形备份-11" fill="#00A4FF" points="14.375 28.375 18.5 28.375 18.5 32.5 14.375 32.5"></polygon>
+            <polygon id="矩形备份-12" fill="#00A4FF" points="29.5 28.375 33.625 28.375 33.625 32.5 29.5 32.5"></polygon>
+        </g>
+    </g>
+</svg>

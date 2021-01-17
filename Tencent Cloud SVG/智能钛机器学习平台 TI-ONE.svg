@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#03AAF4;}
+	.st1{fill:url(#XMLID_2_);}
+	.st2{fill:#00A4FF;}
+	.st3{fill:#00A3FF;}
+</style>
+<g id="图层_2_1_">
+	<g>
+		<path class="st2" d="M5.8,7H44v25h2V5H5.8C5.4,3.8,4.3,3,3,3C1.3,3,0,4.3,0,6s1.3,3,3,3C4.3,9,5.4,8.2,5.8,7z"/>
+		<path class="st2" d="M45,39c-1.3,0-2.4,0.8-2.8,2H4V16H2v27h40.2c0.4,1.2,1.5,2,2.8,2c1.7,0,3-1.3,3-3S46.7,39,45,39z"/>
+		<polygon class="st2" points="11,30 11,20 13,20 13,18 7,18 7,20 9,20 9,30 		"/>
+		<rect x="15" y="18" class="st2" width="2" height="12"/>
+		<rect x="19" y="18" class="st2" width="2" height="12"/>
+		<rect x="23" y="18" class="st2" width="2" height="12"/>
+		<rect x="19" y="18" class="st2" width="6" height="2"/>
+		<rect x="19" y="28" class="st2" width="6" height="2"/>
+		<rect x="27" y="18" class="st2" width="2" height="12"/>
+		<rect x="31" y="18" class="st2" width="2" height="12"/>
+		<rect x="29" y="18" transform="matrix(0.9454 -0.3258 0.3258 0.9454 -6.1822 11.088)" class="st2" width="2" height="12"/>
+		<rect x="35" y="18" class="st2" width="2" height="12"/>
+		<rect x="35" y="18" class="st2" width="6" height="2"/>
+		<rect x="35" y="23" class="st2" width="6" height="2"/>
+		<rect x="35" y="28" class="st2" width="6" height="2"/>
+	</g>
+</g>
+</svg>

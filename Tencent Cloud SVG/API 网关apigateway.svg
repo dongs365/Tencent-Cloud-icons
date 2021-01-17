@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>API网关-48px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="API网关-48px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#444444" opacity="0" x="0" y="0" width="48" height="48"></rect>
+        <g id="分组-11" transform="translate(1.000000, 1.000000)">
+            <g id="Group-33" fill="#00A4FF" fill-rule="nonzero">
+                <rect id="Rectangle-path" x="12" y="17" width="22" height="2"></rect>
+                <rect id="Rectangle-path" x="12" y="34" width="22" height="2"></rect>
+                <rect id="Rectangle-path" x="12" y="18" width="2" height="3"></rect>
+                <rect id="Rectangle-path" x="12" y="32" width="2" height="3"></rect>
+                <rect id="Rectangle-path" x="32" y="32" width="2" height="3"></rect>
+                <rect id="Rectangle-path" x="32" y="18" width="2" height="3"></rect>
+                <rect id="Rectangle-path" x="18" y="10" width="2" height="7"></rect>
+                <rect id="Rectangle-path" x="26" y="10" width="2" height="7"></rect>
+                <rect id="Rectangle-path" x="30" y="23" width="2" height="7"></rect>
+                <path d="M43.76,26 C42.297,36.16 33.558,44 23,44 C11.421,44 2,34.579 2,23 C2,11.421 11.421,2 23,2 C33.558,2 42.297,9.84 43.76,20 L45.798,20 C44.328,8.716 34.685,0 23,0 C10.297,0 0,10.297 0,23 C0,35.703 10.297,46 23,46 C34.685,46 44.328,37.284 45.799,26 L43.76,26 Z" id="Shape"></path>
+                <rect id="Rectangle-path" x="14" y="25" width="2" height="5"></rect>
+                <rect id="Rectangle-path" x="18" y="25" width="2" height="5"></rect>
+                <rect id="Rectangle-path" x="16" y="23" width="2" height="2"></rect>
+                <rect id="Rectangle-path" x="16" y="26" width="2" height="2"></rect>
+                <path d="M16,25 L18,25 C18,23.895 17.105,23 16,23 C14.895,23 14,23.895 14,25 C14,26.104 14.895,27 16,27 L16,25 Z" id="Shape"></path>
+                <path d="M18,25 L16,25 C16,23.895 16.895,23 18,23 C19.105,23 20,23.895 20,25 C20,26.104 19.105,27 18,27 L18,25 Z" id="Shape"></path>
+                <rect id="Rectangle-path-Copy" x="22" y="23" width="2" height="7"></rect>
+                <rect id="Rectangle-path" x="24" y="23" width="2" height="2"></rect>
+                <rect id="Rectangle-path-Copy-3" x="24" y="26" width="2" height="2"></rect>
+                <path d="M26,26 L28,26 C28,24.895 27.105,24 26,24 C24.895,24 24,24.895 24,26 C24,27.104 24.895,28 26,28 L26,26 Z" id="Shape-Copy" transform="translate(26.000000, 26.000000) scale(-1, -1) translate(-26.000000, -26.000000) "></path>
+                <path d="M26,25 L24,25 C24,23.895 24.895,23 26,23 C27.105,23 28,23.895 28,25 C28,26.104 27.105,27 26,27 L26,25 Z" id="Shape-Copy-2"></path>
+            </g>
+            <g id="Group-32" transform="translate(14.000000, 23.000000)"></g>
+            <g id="Group-31" transform="translate(22.000000, 23.000000)"></g>
+        </g>
+    </g>
+</svg>

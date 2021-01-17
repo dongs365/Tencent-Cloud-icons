@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="48px" height="48px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<style type="text/css">
+	.投影{fill:none;}
+	.外发光_x0020_5_x0020_pt{fill:none;}
+	.蓝色霓虹灯{fill:none;stroke:#8AACDA;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;}
+	.铬黄色高光{fill:url(#SVGID_1_);stroke:#FFFFFF;stroke-width:0.3629;stroke-miterlimit:1;}
+	.摇摆_GS{fill:#FFDD00;}
+	.阿莉莎_GS{fill:#A6D0E4;}
+	.st0{fill:#00A4FF;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="6.123234e-17" y2="-1">
+	<stop  offset="0" style="stop-color:#656565"/>
+	<stop  offset="0.618" style="stop-color:#1B1B1B"/>
+	<stop  offset="0.6292" style="stop-color:#545454"/>
+	<stop  offset="0.9831" style="stop-color:#3E3E3E"/>
+</linearGradient>
+<g>
+	<path class="st0" d="M34.007,12.007v5.4v2.954l2.743-1.097l8.257-3.303v15.246l-8.351-2.863l-2.649-0.908v2.8v5.771h-31v-24H34.007
+		 M36.007,10.007h-35v28h35v-7.771l11,3.771v-21l-11,4.4V10.007L36.007,10.007z"/>
+</g>
+<g id="XMLID_79_">
+	<path id="XMLID_80_" class="st0" d="M14.507,30.974c-0.259,0-0.519-0.066-0.75-0.2c-0.463-0.268-0.75-0.765-0.75-1.299v-10.77
+		c0-0.534,0.287-1.032,0.75-1.299c0.464-0.268,1.038-0.267,1.5,0l0,0v0l9.327,5.384c0.462,0.267,0.749,0.765,0.75,1.298
+		c0,0.534-0.287,1.032-0.749,1.299l-9.328,5.385C15.026,30.907,14.767,30.974,14.507,30.974z M15.007,19.571v9.038l7.827-4.519
+		L15.007,19.571z"/>
+</g>
+</svg>

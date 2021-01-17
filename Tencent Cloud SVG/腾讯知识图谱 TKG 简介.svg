@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="48px" height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<path fill="#00A4FF" d="M42,10v15c0,0.1-0.3,14.6-18,18.9C6.5,39.7,6,25.6,6,25.1V4h35h1h2V2H4v23.1c0,0,0.2,16.4,20,20.9
+		c19.8-4.6,20-20.9,20-20.9V10H42z"/>
+	<circle fill="#00A4FF" cx="24" cy="11" r="2"/>
+	<circle fill="#00A4FF" cx="24" cy="31" r="2"/>
+	<circle fill="#00A4FF" cx="14" cy="21" r="2"/>
+	<circle fill="#00A4FF" cx="34" cy="21" r="2"/>
+	<rect x="29.5" y="18.5" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 51.5 -9.5)" fill="#00A4FF" width="2" height="5"/>
+	<rect x="16.5" y="18.5" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 38.5 3.5)" fill="#00A4FF" width="2" height="5"/>
+	<g>
+		<path fill="#00A4FF" d="M24,12.8l8.2,8.2L24,29.2L15.8,21L24,12.8 M24,10L13,21l11,11l11-11L24,10L24,10z"/>
+	</g>
+	<rect x="23" y="11" fill="#00A4FF" width="2" height="20"/>
+</g>
+</svg>

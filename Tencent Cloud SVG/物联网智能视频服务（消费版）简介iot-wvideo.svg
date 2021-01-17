@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>消费版-48-蓝</title>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="消费版-48-蓝">
+            <circle id="椭圆形备份-3" stroke="#00A4FF" stroke-width="2" cx="24" cy="21" r="18"></circle>
+            <circle id="椭圆形备份-4" stroke="#00A4FF" stroke-width="2" cx="24" cy="21" r="11"></circle>
+            <circle id="椭圆形备份-5" stroke="#00A4FF" stroke-width="2" cx="21" cy="18" r="1"></circle>
+            <rect id="矩形备份-3" fill="#00A4FF" x="9" y="44" width="30" height="2"></rect>
+            <rect id="矩形备份-4" fill="#00A4FF" transform="translate(15.130612, 40.605485) rotate(-75.000000) translate(-15.130612, -40.605485) " x="10.6306115" y="39.6054853" width="9" height="2"></rect>
+            <rect id="矩形备份-5" fill="#00A4FF" transform="translate(33.130612, 40.605485) scale(-1, 1) rotate(-75.000000) translate(-33.130612, -40.605485) " x="28.6306115" y="39.6054853" width="9" height="2"></rect>
+        </g>
+    </g>
+</svg>

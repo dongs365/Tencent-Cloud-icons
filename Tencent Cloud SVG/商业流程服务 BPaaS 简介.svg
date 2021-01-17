@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>BPaaS流程服务-48px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="BPaaS流程服务-48px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#444444" opacity="0" x="0" y="0" width="48" height="48"></rect>
+        <path d="M20.1213203,30.7781746 L18,28.6568542 L19.4142,27.2426542 L21.5355203,29.3639746 L25.7780664,25.1214285 L27.1922664,26.5356285 L21.5355203,32.1923746 L20.1213203,30.7781746 Z M30,23 L14,23 L14,21 L30,21 L30,19 L14,19 L14,33 L30,33 L30,23 Z M16,17 L16,13 L36,13 L36,31 L32,31 L32,35 L12,35 L12,17 L16,17 Z M18,17 L32,17 L32,29 L34,29 L34,15 L18,15 L18,17 Z M44.762,27 L46.799,27 C45.328,38.284 35.686,47 24,47 C11.298,47 1,36.703 1,24 C1,11.297 11.298,1 24,1 C35.686,1 45.328,9.716 46.799,21 L44.762,21 C43.303,10.827 34.576,3 24,3 C12.403,3 3,12.402 3,24 C3,35.598 12.403,45 24,45 C34.576,45 43.303,37.173 44.762,27 Z" id="Combined-Shape" fill="#00A4FF" fill-rule="nonzero"></path>
+    </g>
+</svg>

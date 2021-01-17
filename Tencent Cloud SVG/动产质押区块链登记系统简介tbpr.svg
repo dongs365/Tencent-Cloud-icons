@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>48x48备份</title>
+    <desc>Created with Sketch.</desc>
+    <g id="48x48备份" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#444444" opacity="0" x="0" y="0" width="48" height="48"></rect>
+        <path d="M24.104,45 C12.504,45 3.104,35.6 3.104,24 C3.104,12.4 12.504,3 24.104,3 C34.504,3 43.404,10.7 44.904,21 L46.904,21 C45.204,8.4 33.704,-0.5 21.104,1.2 C8.504,2.9 -0.396,14.4 1.304,27 C3.004,39.6 14.504,48.5 27.104,46.8 C37.404,45.4 45.504,37.3 46.904,27 L44.904,27 C43.404,37.3 34.504,45 24.104,45 Z" id="Path" fill="#00A4FF"></path>
+        <g id="编组" transform="translate(15.000000, 12.000000)" stroke="#00A4FF" stroke-width="2">
+            <polyline id="路径" points="3 14 0 14 0 4.85722573e-16 12 4.85722573e-16 12 5"></polyline>
+            <polyline id="路径备份" points="18 21 18 24 6 24 6 8 18 8 18 17"></polyline>
+            <path d="M13,12 L10,17" id="直线"></path>
+            <path d="M9,19 L15,19" id="直线-2"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="48px" height="48px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M44.952,27c-1.469,10.16-10.247,18-20.851,18c-11.63,0-21.092-9.421-21.092-21S12.471,3,24.101,3
+				c10.604,0,19.382,7.84,20.851,18h2.047C45.523,9.716,35.837,1,24.101,1C11.342,1,1,11.297,1,24s10.342,23,23.101,23
+				C35.837,47,45.523,38.284,47,27H44.952z"/>
+		</defs>
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;fill:#00A4FF;"/>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+	</g>
+</g>
+<circle style="fill:#00A4FF;" cx="13" cy="19" r="2"/>
+<circle style="fill:#00A4FF;" cx="35" cy="29" r="2"/>
+<polygon style="fill:#00A4FF;" points="29,24.155 29,26.425 35,23.152 35,18 24,12 13,18 13,20.27 24,14.278 28.137,16.535 
+	23,19.321 23,27.448 17.735,30.305 15,28.813 15,25.993 15.011,25.987 15.011,25.974 19,23.81 19,21.532 13,24.786 13,30 24,36 
+	35,30 35,27.709 24,33.722 19.841,31.453 25,28.642 25,20.528 25.011,20.522 25.011,20.509 30.231,17.677 33,19.187 33,21.959 "/>
+</svg>

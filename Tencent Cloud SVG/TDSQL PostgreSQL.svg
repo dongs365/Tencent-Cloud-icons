@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>TBase48px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="TBase48px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="image" transform="translate(3.000000, 2.000000)" fill="#00A4FF">
+            <path d="M2,36 L2,30.557 C4.388,32.576 8.738,34.108 14,34.713 L14,32.725 C7.056,31.971 2,29.7 2,27 L2,21.557 C4.388,23.576 8.738,25.108 14,25.713 L14,23.725 C7.056,22.971 2,20.7 2,18 L2,11.557 C5.112,14.188 11.545,16 19,16 C26.455,16 32.888,14.188 36,11.557 C36,11.557 36.018,16.218 36.007,17 L38,18.03 L38,8 C38,3.582 29.493,0 19,0 C8.507,0 0,3.582 0,8 L0,36 C0,40.418 8.507,44 19,44 C19.724,44 20.426,43.965 21.127,43.93 L17.71,41.977 C8.926,41.744 2,39.16 2,36 Z M19,2 C28.389,2 36,4.686 36,8 C36,11.314 28.389,14 19,14 C9.611,14 2,11.314 2,8 C2,4.686 9.611,2 19,2 Z" id="Shape" fill-rule="nonzero"></path>
+            <path d="M30,20.5825424 L20,26.0825424 L20,36.9174576 L30,42.4174576 L40,36.9174576 L40,26.0825424 L30,20.5825424 Z M30,18.3 L42,24.9 L42,38.1 L30,44.7 L18,38.1 L18,24.9 L30,18.3 Z" id="Shape" fill-rule="nonzero"></path>
+            <polygon id="Rectangle-Copy-4" points="24 27 34.9192982 27 36 29 25.2280702 29"></polygon>
+            <polygon id="Combined-Shape-Copy-7" points="29 28 31 28 31 38 29 38"></polygon>
+        </g>
+    </g>
+</svg>

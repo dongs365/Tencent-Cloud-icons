@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>智能编辑-48px </title>
+    <desc>Created with Sketch.</desc>
+    <g id="智能编辑-48px-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#444444" opacity="0" x="0" y="0" width="48" height="48"></rect>
+        <g id="c8895019127a1384919d48c3b4d20bb5" transform="translate(1.000000, 9.000000)" fill="#00A4FF" fill-rule="nonzero">
+            <path d="M32.8,2.7 L32.8,8.7 L32.8,11.5 L35.5,10.6 L44,7.7 L44,22.2 L35.5,19.3 L32.8,18.4 L32.8,21.2 L32.8,27.2 L2,27.2 L2,2.7 L32.8,2.7 Z M34.8,0.7 L0,0.7 L0,29.2 L34.8,29.2 L34.8,21.2 L46,25.1 L46,4.9 L34.9,8.8 L34.9,0.7 L34.8,0.7 Z" id="Shape"></path>
+        </g>
+        <g id="分组" transform="translate(9.000000, 14.500000)" fill="#00A4FF">
+            <polygon id="Path" points="10 2.001 10 -4.08562073e-14 2 -4.08562073e-14 -1.03028697e-13 -4.08562073e-14 -1.03028697e-13 2.001 -1.03028697e-13 16 2 16 2 2.001"></polygon>
+            <polygon id="Path" points="0 17 0 19 2 19 5 19 5 17 2 17 2 14 0 14"></polygon>
+            <polygon id="Path" points="19.0005963 17 19.0005963 9 17.0005963 9 17.0005963 17 3 17 3 19 17.0005963 19 19.0005963 19"></polygon>
+            <rect id="Rectangle" transform="translate(11.767767, 7.227233) rotate(-45.000000) translate(-11.767767, -7.227233) " x="3.26776695" y="6.22723305" width="17" height="2"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00a4ff;
+      }
+    </style>
+  </defs>
+  <title> </title>
+  <g>
+    <path class="cls-1" d="M24,2.56A34,34,0,0,1,44,9c0,.23,0,.47,0,.7A41.71,41.71,0,0,1,24,45.12,41.75,41.75,0,0,1,4,9.7c0-.24,0-.47,0-.7V9A34,34,0,0,1,24,2.56m0-2A36.18,36.18,0,0,0,2.26,7.8L2.05,8v.26c0,.49,0,1,0,1.48a43.59,43.59,0,0,0,21.7,37.58l.27.16.28-.16A43.58,43.58,0,0,0,46,9.68c0-.48,0-1,0-1.46V8l-.21-.16A36.18,36.18,0,0,0,24,.56Z"/>
+    <path class="cls-1" d="M24,10.4a9.1,9.1,0,1,1-9.1,9.1A9.11,9.11,0,0,1,24,10.4m0-2A11.1,11.1,0,1,0,35.1,19.5,11.1,11.1,0,0,0,24,8.4Z"/>
+    <g>
+      <rect class="cls-1" x="23" y="6.13" width="2" height="2.82"/>
+      <rect class="cls-1" x="23" y="30.4" width="2" height="2.82"/>
+    </g>
+    <g>
+      <rect class="cls-1" x="31.17" y="10.09" width="2.82" height="2" transform="translate(1.7 26.29) rotate(-45)"/>
+      <rect class="cls-1" x="14.01" y="27.25" width="2.82" height="2" transform="translate(-15.46 19.18) rotate(-45)"/>
+    </g>
+    <g>
+      <rect class="cls-1" x="34.72" y="18.67" width="2.82" height="2"/>
+      <rect class="cls-1" x="10.46" y="18.67" width="2.82" height="2"/>
+    </g>
+    <rect class="cls-1" x="22.87" y="6.18" width="2" height="26.72" transform="translate(-6.83 22.6) rotate(-45)"/>
+    <circle class="cls-1" cx="20.95" cy="17.57" r="3.05"/>
+    <circle class="cls-1" cx="28.61" cy="16.67" r="1.39"/>
+    <circle class="cls-1" cx="24" cy="24.63" r="1.7"/>
+  </g>
+</svg>

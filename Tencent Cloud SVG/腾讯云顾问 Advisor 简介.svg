@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>云顾问-48</title>
+    <desc>Created with Sketch.</desc>
+    <g id="云顾问-48" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="image" transform="translate(1.000000, 1.000000)" fill="#00A4FF">
+            <g id="XMLID_497_">
+                <path d="M43.8,26 C42.3,36.2 33.6,44 23,44 C11.4,44 2,34.6 2,23 C2,11.4 11.4,2 23,2 C33.6,2 42.3,9.8 43.8,20 L45.8,20 C44.3,8.7 34.7,0 23,0 C10.3,0 0,10.3 0,23 C0,35.7 10.3,46 23,46 C34.7,46 44.3,37.3 45.8,26 L43.8,26 Z" id="Path"></path>
+            </g>
+        </g>
+        <circle id="椭圆形" stroke="#00A4FF" stroke-width="2" cx="24" cy="16" r="7"></circle>
+        <g id="编组" transform="translate(11.000000, 25.000000)" fill="#00A4FF">
+            <path d="M12,2 C7.22601318,2 3.2333687,5.34532423 2.23838989,9.81964937 L2.2,10 L18,10 L18,12 L0,12 C0,5.372583 5.372583,0 12,0 L18,0 L18,2 L12,2 Z" id="形状结合" fill-rule="nonzero"></path>
+            <path d="M25,0 C26.1045695,-2.02906125e-16 27,0.8954305 27,2 L27,12 L25,12 L25,8 L22,8 L22,12 L20,12 L20,2 C20,0.945638205 20.8158778,0.0818348781 21.8507377,0.00548573643 L22,0 L25,0 Z M22,1.999 L22,6 L25,6 L25,2 L22,1.999 Z" id="形状结合"></path>
+        </g>
+    </g>
+</svg>

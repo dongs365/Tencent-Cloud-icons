@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>产品icon-48px-蓝</title>
+    <desc>Created with Sketch.</desc>
+    <g id="产品icon-48px-蓝" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M24,1.13908764 L3,12.5936331 L3,35.4063669 L24,46.8609124 L45,35.4063669 L45,12.5936331 L24,1.13908764 Z" id="多边形-copy-3" stroke="#00A4FF" stroke-width="2"></path>
+        <g id="分组" transform="translate(10.000000, 13.000000)">
+            <polygon id="矩形-copy-10" stroke="#00A4FF" stroke-width="2" points="8.28571429 0 19.7142857 0 24 4.0805437 24 21 19.7142857 21 18.2857143 18.6307725 9.71428571 18.6307725 8.28571429 21 4 21 4 18.6307725 4 4.0805437"></polygon>
+            <polygon id="路径-copy-2" fill="#00A4FF" fill-rule="nonzero" points="1.91180405e-13 6.9623493 2 5 2 11.9459334 1.55542246e-12 11.9459334"></polygon>
+            <polygon id="路径-copy-3" fill="#00A4FF" fill-rule="nonzero" transform="translate(27.000000, 8.472967) scale(-1, 1) translate(-27.000000, -8.472967) " points="26 6.9623493 28 5 28 11.9459334 26 11.9459334"></polygon>
+            <circle id="椭圆形-copy-11" fill="#00A4FF" fill-rule="nonzero" cx="20.5" cy="15" r="1.5"></circle>
+            <circle id="椭圆形-copy-12" fill="#00A4FF" fill-rule="nonzero" cx="7.5" cy="15" r="1.5"></circle>
+            <path d="M4.5,11 L23,11" id="直线-2" stroke="#00A4FF" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>
